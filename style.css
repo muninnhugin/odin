@@ -1,0 +1,28 @@
+*{
+    font-family: 'Trebuchet MS', Tahoma, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    margin-left: 25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.menu{
+    margin-top: 2%;
+    margin-left: 40%;
+    list-style: none;
+}
+
+.ingredients{
+    text-align: start;
+    list-style: inside;
+}
+
+.cooking-steps{
+    text-align: start;
+}
